@@ -1,29 +1,8 @@
-# README #
+# ROS JOYSTICK #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+This ROS package contains a joystick to move a robot and get its position.
 
-### What is this repository for? ###
+Educationak package to start working with ROS using QT.
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
 
-### How do I get set up? ###
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
